@@ -1,19 +1,19 @@
-### Hi there 👋
+<div align="center">
+<h3> yxxyn's Github👋 </h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxyn20&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">🔭stack🔭</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-</div>
+<h3>🔭stack🔭 </h3>
 
-## 💖ME💖
-<div align="center">
-  <a href="https://otcrotcr.notion.site/8ad666795506463fac1c56a88308ed44" target="_blank"><img src="https://img.shields.io/badge/NotionPortfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <a href="mailto:dbtndus0527@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+<h3> 💖ME💖 </h3>
+
+<a href="https://otcrotcr.notion.site/8ad666795506463fac1c56a88308ed44" target="_blank"><img src="https://img.shields.io/badge/NotionPortfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="mailto:dbtndus0527@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 
 
