@@ -1,6 +1,7 @@
 <div align="center">
 <h3> yxxyn's Github👋 </h3>
-  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxyn20&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <h3>🔭stack🔭 </h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -14,8 +15,6 @@
 <a href="https://otcrotcr.notion.site/8ad666795506463fac1c56a88308ed44" target="_blank"><img src="https://img.shields.io/badge/NotionPortfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="mailto:dbtndus0527@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxyn20&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yxxyn20/yxxyn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
