@@ -1,6 +1,5 @@
 <div align="center">
 <h3> yxxyn's Github👋 </h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxyn20&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 <h3>🔭stack🔭 </h3>
 
@@ -16,6 +15,7 @@
 <a href="mailto:dbtndus0527@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxyn20&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yxxyn20/yxxyn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
