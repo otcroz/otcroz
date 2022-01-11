@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=yxxyn's&nbsp;Github%20&fontSize=90&animation=twinkling)
 <div align="center">
-<h3> yxxyn's Github👋 </h3>
+<h3> otcroz Github👋 </h3>
 Hello. I am a college student studying coding with the goal of becoming a developer. <br>
   Further details are still under consideration. nice to meet you.😄<br><br>
 
@@ -10,7 +10,7 @@ Hello. I am a college student studying coding with the goal of becoming a develo
 <a href="https://otcrotcr.notion.site/8ad666795506463fac1c56a88308ed44" target="_blank"><img src="https://img.shields.io/badge/NotionPortfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="mailto:dbtndus0527@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxyn20&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otcroz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>🔭TECH STACK🔭 </h3>
