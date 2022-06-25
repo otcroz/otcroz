@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=yxxyn's&nbsp;Github%20&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=otcroz's&nbsp;Github%20&fontSize=90&animation=twinkling)
 <div align="left">
 <h3> otcroz Github👋 </h3>
 Hello. I am a college student studying coding with the goal of becoming a developer. <br>
