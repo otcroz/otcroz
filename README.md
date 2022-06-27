@@ -8,6 +8,8 @@ Hello. I am a college student studying coding with the goal of becoming a develo
   <ul>
     <li> Studying React native
     <li> Studying Node.js
+    <li> Study Group: Algorithm Study
+    <li> Major Development Group: Corner
     <li> Team Project: SHAPE-UP
     <li> Team Project: DreamIT
   </ul>
