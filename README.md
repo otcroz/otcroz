@@ -6,14 +6,11 @@ Hello. I am a college student studying coding with the goal of becoming a develo
 
   <h3> What i am currently doing💻📚 </h3>
   <ul>
-    <li> Studying major
-    <li> Studying React
+    <li> I'll Studying Machine learning 
     <li> Studying Node.js
-    <li> Study Group: Algorithm Study, Major Study
+    <li> Studying Spring
+    <li> Study Group: Algorithm Study, Coding Test Study
     <li> Major Development Group: Corner
-    <li> Team Project: SHAPE-UP
-    <li> Team Project: To Assembly
-    <li> Team Project: WISCOM backend
   </ul>
   
   <br>
