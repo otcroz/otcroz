@@ -6,9 +6,8 @@ Hello. I am a college student studying coding with the goal of becoming a develo
 
   <h3> What i am currently doing💻📚 </h3>
   <ul>
-    <li> I'll Studying Machine learning 
-    <li> Studying Node.js
-    <li> Studying Spring
+    <li> Studying Machine learning
+    <li> Studying Spring Boot
     <li> Study Group: Algorithm Study, Coding Test Study
     <li> Major Development Group: Corner
   </ul>
