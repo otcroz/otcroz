@@ -7,7 +7,7 @@ Hello. I am a college student studying coding with the goal of becoming a develo
   Further details are still under consideration. nice to meet you.😄<br>
 
 
-### 💻What i am currently doing
+### 💻What I am currently doing
   <ul>
     <li> Studying Machine learning
     <li> Studying Spring Boot
