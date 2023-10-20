@@ -1,10 +1,26 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=otcroz's&nbsp;Github%20&fontSize=90&animation=twinkling)
+-->
 <div align="left">
+  
+## Me!
 
-### 👋Welcome to my GitHub
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>  
+<br/><br/>
 
-Hello. I am a college student studying coding with the goal of becoming a developer. <br>
-  Further details are still under consideration. nice to meet you.😄<br>
+
+✔️ Software Engineer <br />
+
+
+✨  <I>[RESUME](#)</I> <br />
+📝  <I>[PORTFOLIO](#)</I>
 
 <!--
 ### 💻What I am currently doing
@@ -15,9 +31,9 @@ Hello. I am a college student studying coding with the goal of becoming a develo
     <li> Proceeding Narsha, Polaris Project
   </ul>
 <br>
--->
-  
-### 📚PORTFOLIO
+
+-->  
+### GitHub Analytics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otcroz&show_icons=true&theme=tokyonight&bg_color=0,24292f,2C2C60&text_color=E5E7FF)](https://github.com/anuraghazra/github-readme-stats) 
 
