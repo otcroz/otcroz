@@ -33,10 +33,11 @@
 <br>
 
 -->  
+<!--
 ### GitHub Analytics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otcroz&show_icons=true&theme=tokyonight&bg_color=0,24292f,2C2C60&text_color=E5E7FF)](https://github.com/anuraghazra/github-readme-stats) 
-
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otcroz&layout=compact&theme=tokyonight&bg_color=0,2C2C60,24292f&text_color=E5E7FF)](https://github.com/otcroz/github-readme-stats)  
 -->
