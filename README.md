@@ -17,11 +17,9 @@
 
 ✔️ Software Engineer <br />
 
-
-###✨  <I>[RESUME](#)</I> <br />
-###📝  <I>[PORTFOLIO](#)</I>
-
 <!--
+✨  <I>[RESUME](#)</I> <br />
+📝  <I>[PORTFOLIO](#)</I>
 ### 💻What I am currently doing
 
   <ul>
