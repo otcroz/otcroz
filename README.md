@@ -14,8 +14,11 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>  
 
-
 ✔️ Software Engineer <br />
+
+<details>
+<summary>👩‍💻Activity</summary>
+<div markdown="1">
 
 _2024_
 - 2024년 ICT멘토링 이브와 공모전 참여
@@ -36,6 +39,7 @@ _2022_
 - 2022년 ICT멘토링 한이음 공모전 참여
 - 2022년 ICT멘토링 한이음 공모전 입선🎖️
 - 2022년 ICT멘토링 한이음 공모전 동상🎖️
+- 덕성여자대학교 컴퓨터공학전공 제17대 학생회
 
 _2021_
 - Corner 개발동아리 1기 활동
@@ -43,7 +47,15 @@ _2021_
 - 코뮤니티 UI/UX 커리큘럼 2022년 9월 우수회원🎖️
 - 코뮤니티 서포터즈 2기 활동
 - 코뮤니티 Javascript 5월 커리큘럼 수료
-- 코뮤니티 HTML/CSS 3월 커리큘럼 수료 
+- 코뮤니티 HTML/CSS 3월 커리큘럼 수료
+- 덕성여자대학교 컴퓨터공학전공 제16대 학생회
+
+
+</div>
+</details>
+
+
+
 
 <!--
 ✨  <I>[RESUME](#)</I> <br />
