@@ -4,29 +4,20 @@
 -->
 
   
-## Me! otcroz.
+## Front~end Engineer! otcroz.
+**사용자에게 기억에 각인되는 서비스를 제공하기 위해 로직, 코드 한 줄을 고민하는 개발자입니다.👩‍💻** <br />
+서비스의 시작부터 종료까지, 일관되고 유연한 사용자 경험을 제공할 수 있는 방안에 대해 고민합니다. <br />
+저는 사람들이 기술을 효과적으로 활용하여 삶의 질을 향상시킬 수 있도록 돕는 것이 프론트엔드 개발자의 역할이라고 생각합니다. <br />
+이를 통해 사람과 기술을 잇는, 비로소 더 나은 사용자 경험을 창출할 수 있도록 기여하고자 합니다.
 
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>  
 
-✔️ Software Engineer <br />
+[📝개발자 유수연 이력서](https://otcrotcr.notion.site/Engineer-Resume-otcroz-6a177f96e6d24e3faf9780b21307db65?pvs=4)
 
-**사용자를 사로잡을 수 있는 서비스는 무엇일까?**
 
-저는 사용자가 만족할 수 있는 경험을 제공하기 위한 로직에 대해 고민하는 개발자입니다. <br /><br />
-**‘내가 개발하는 서비스에서 사용자를 어떻게 사로잡을 수 있을까?’**
-라는 질문을 스스로에게 던집니다. <br /><br />
-`#서비스의 만족스러운 경험과 좋은 인상` `#서비스의 매력 가시화` <br /><br />
-사람들은 끊임없이 정보가 공급되는 사회에서 수많은 정보를 마주칩니다. 그리고 웹, 모바일을 통해 가치 있는 정보와 경험을 얻습니다. <br /><br />
-저는 개발자의 업무 중에서도 사용자가 서비스를 쉽고 빠르게 습득할 수 있는 공간을 구축하고 <br />
-사용자를 붙잡기 위해 서비스의 매력을 가시화하는 작업을 중요하게 생각합니다. <br /><br />
-또한, 사용자의 요구사항을 수용하고 이를 반영함으로써 사용자에게 만족스러운 경험을 제공하고 <br />
-우리 서비스에 좋은 인상을 남기기 위한 방법에 대해 고민합니다.  <br /><br />
+
+
+
+
 
 ## 👩‍💻𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚!
 <details>
@@ -96,7 +87,13 @@ _2021_
 
 <!--
  ### 🛠️TECH STACK
- 
+ <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>  
   <div>
     <h4> Use well </h4>
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white" />
