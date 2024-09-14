@@ -27,6 +27,7 @@
 _2024_
 - 2024년 ICT멘토링 이브와 공모전 참여
 - 정보처리기사 자격증 취득
+- PCCE 코딩필수역량인증(1000/1000)
 
 _2023_
 - 2023년 Corner 장기 프로젝트 참여: [뭉게뭉게](https://github.com/otcroz/DS-Narsha_front-end)
