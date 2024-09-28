@@ -11,8 +11,8 @@
 이를 통해 사람과 기술을 잇고, 더 나은 사용자 경험을 창출할 수 있도록 기여하고자 합니다.
 
 
-[📝개발자 유수연 이력서](https://otcrotcr.notion.site/Engineer-Resume-otcroz-6a177f96e6d24e3faf9780b21307db65?pvs=4)
-
+[📝개발자 유수연 이력서](https://otcrotcr.notion.site/Engineer-Resume-otcroz-6a177f96e6d24e3faf9780b21307db65?pvs=4) <br />
+[✨개발자 유수연 포트폴리오](https://github.com/otcroz/otcroz/blob/main/%EC%9C%A0%EC%88%98%EC%97%B0_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_FE.pdf)
 
 
 
