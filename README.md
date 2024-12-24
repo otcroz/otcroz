@@ -27,7 +27,7 @@
 _Award_
 - 2024년 ICT멘토링 이브와 공모전 금상(과학기술정보통신부장관상)🎖️: NLP 기반 소설 IP 확장 솔루션
   - ©️한국저작권위원회 프로그램 등재: Plotter 웹서비스
-  - 📜2024 ACK 추계학술대회 논문 등재
+  - 📜2024 ACK 추계학술대회 논문 등재: [NLP 기반 소설 IP 확장 솔루션 개발](https://github.com/otcroz/DS-Volare_front-end/blob/main/docs/ACK2024_%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%ED%95%99%ED%9A%8C_%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C.pdf)
 - 2022년 ICT멘토링 한이음 공모전 입선🎖️: 반려견 예비보호자를 위한 스타터 애플리케이션
 - 2022년 ICT멘토링 한이음 공모전 동상🎖️: 자연어 처리 기반 국회 입법활동 분석
 
