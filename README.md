@@ -7,11 +7,11 @@
 ## Front~end Engineer! otcroz.
 **사용자에게 기억에 각인되는 서비스를 제공하기 위해 로직, 코드 한 줄을 고민하는 개발자입니다.👩‍💻** <br />
 서비스의 시작부터 종료까지, 유연한 사용자 경험을 제공할 수 있는 방안에 대해 고민합니다. <br />
-저는 사람들이 기술을 효과적으로 활용하여 삶의 질을 향상시킬 수 있도록 돕는 것이 프론트엔드 개발자의 역할이라고 생각합니다. <br />
+저는 사람들이 서비스를 통해 삶의 질을 향상시킬 수 있도록 돕고 싶습니다. <br />
 이를 통해 사람과 기술을 잇고, 더 나은 사용자 경험을 창출할 수 있도록 기여하고자 합니다.
 
 
-[📝개발자 유수연 이력서](https://otcrotcr.notion.site/Engineer-Resume-otcroz-6a177f96e6d24e3faf9780b21307db65?pvs=4) <br />
+[📝개발자 유수연 Notion 이력서](https://otcrotcr.notion.site/Engineer-Resume-otcroz-6a177f96e6d24e3faf9780b21307db65?pvs=4) <br />
 
 
 
@@ -35,7 +35,7 @@ _Project_
 - [NLP 기반 소설 IP 확장 솔루션 Plotter](https://github.com/otcroz/DS-Volare_front-end) (2024.2~2024.11)
 - [애독자를 위한 독서 여행 웹서비스](https://github.com/otcroz/Polaris_front-end) (2023.7~2024.8)
 - Corner 장기 프로젝트 참여: [저학년 아동의 건강한 SNS 사용을 위한 교육 애플리케이션](https://github.com/otcroz/DS-Narsha_front-end) (2023.2~2023.11)
-  - 2023 ACK 추계학술대회 논문 등재: [YOLOv5를 이용한 개인정보 탐지 및 마스킹 알고리즘 구현](https://github.com/otcroz/DS-Narsha_AI-server/blob/main/ACK2023_KIPS_C2023B0226_%EC%B5%9C%EC%A2%85.pdf)📃   
+  - 📜2023 ACK 추계학술대회 논문 등재: [YOLOv5를 이용한 개인정보 탐지 및 마스킹 알고리즘 구현](https://github.com/otcroz/DS-Narsha_AI-server/blob/main/ACK2023_KIPS_C2023B0226_%EC%B5%9C%EC%A2%85.pdf)📃   
 - 덕성여자대학교 컴퓨터공학전공 제32회 졸업준비위원회: [WISCOM 웹페이지 개발-Node.js](https://github.com/otcroz/DS-WISCOM_back-end.git) (2022.8~2022.11)
 - Corner 장기 프로젝트 참여: [꿈 일기를 기록하면 분석하여 조언을 건네는 서비스](https://github.com/DS-DreamIT/front-end/tree/main) (2022.2~2022.6)
 
