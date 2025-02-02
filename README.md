@@ -11,9 +11,6 @@
 이를 통해 사람과 기술을 잇고, 더 나은 사용자 경험을 창출할 수 있도록 기여하고자 합니다.
 
 
-[📝개발자 유수연 Notion 이력서](https://otcrotcr.notion.site/Engineer-Resume-otcroz-6a177f96e6d24e3faf9780b21307db65?pvs=4) <br />
-
-
 
 
 
