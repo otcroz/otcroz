@@ -10,13 +10,14 @@
 서비스 품질뿐만 아니라 개발 환경의 효율도 함께 고민하는 개발자입니다.**
 
 - 한 해에 약 4000명이 참가하는 기업 전문가 연계 ICT공모전에서 **금상·동상** 수상, **프로그램 저작권 등록(C-2024-047133)**
-- 코드 문서화 및 코드 리뷰로 **인력·시간 자원 50% 효율화**
+- 리렌더링 방지를 위한 React.memo 적용해 **렌더링 속도 1.5s(3.0s → 1.5s)** 감소
+- 코드 문서화 및 코드 리뷰로 **인력·시간 자원 50% 효율화, 오류 발생 빈도 15% 감소**
 - AWS EC2에서 NginX, PM2로 **무중단 서버 배포 및 운영** 경험
 - koBERT 활용한 텍스트 알고리즘 API **응답시간 40%** 감소
 
-**💡'개발자 유수연'에 대해 궁금하시다면?**
-| 📜[이력서 보러가기](https://drive.google.com/file/d/15DqF2flCotkZjvl6PIEtp5eY4qOJOizX/view?usp=sharing) | ✨[포트폴리오 보러가기](https://drive.google.com/file/d/1BJHDwhc65O4eBmLXankQEvxBMFq89tiX/view?usp=sharing)    |
-| ------------------------------------------------ | ---------------------------------------------- |
+**💡'개발자 otcroz'에 대해 궁금하시다면?**
+| 📜[이력서 보러가기](https://drive.google.com/file/d/15DqF2flCotkZjvl6PIEtp5eY4qOJOizX/view?usp=sharing) | ✨[포트폴리오 보러가기](https://drive.google.com/file/d/1BJHDwhc65O4eBmLXankQEvxBMFq89tiX/view?usp=sharing)    | 🌠[Dev.log("otcroz")!](https://otcrotcr.notion.site/otcroz-dev-log-c0969737ccc4486fb89a734ba2be378f?source=copy_link) |
+| ------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
 
 <!--
 서비스의 시작부터 종료까지, 유연한 사용자 경험을 제공할 수 있는 방안에 대해 고민합니다. <br />
