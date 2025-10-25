@@ -32,6 +32,11 @@
 <div markdown="1">
 <br />
 
+_Experience_
+- (2025.9 ~) 슈어소프트테크 모빌리티솔루션실 인턴(Fullstack Engineer)
+  - LLM(Qwen QWQ) Fine-tuning(SFT, DPO) 및 Train datasets 12000개 자체 제작, LLM Accuracy 40% 증가
+  - On-premise 웹페이지 개발(React, Flask)
+
 _Award_
 - 2024년 ICT멘토링 이브와 공모전 금상(과학기술정보통신부장관상)🎖️: NLP 기반 소설 IP 확장 솔루션
   - ©️한국저작권위원회 프로그램 등재: Plotter 웹서비스
