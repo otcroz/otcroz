@@ -16,7 +16,7 @@
 - koBERT 활용한 텍스트 알고리즘 API **응답시간 40%** 감소
 
 **💡'개발자 otcroz'에 대해 궁금하시다면?**
-| 📜[이력서 보러가기](https://drive.google.com/file/d/15DqF2flCotkZjvl6PIEtp5eY4qOJOizX/view?usp=sharing) | ✨[포트폴리오 보러가기](https://drive.google.com/file/d/1BJHDwhc65O4eBmLXankQEvxBMFq89tiX/view?usp=sharing)    | 🌠[Dev.log("otcroz")!](https://otcrotcr.notion.site/otcroz-dev-log-c0969737ccc4486fb89a734ba2be378f?source=copy_link) |
+| 📜[이력서 보러가기](https://drive.google.com/file/d/1UAt2wNOVxQokKPEQEohlREyThUpbhSTp/view?usp=sharing) | ✨[포트폴리오 보러가기](https://drive.google.com/file/d/1BJHDwhc65O4eBmLXankQEvxBMFq89tiX/view?usp=sharing)    | 🌠[Dev.log("otcroz")!](https://otcrotcr.notion.site/otcroz-dev-log-c0969737ccc4486fb89a734ba2be378f?source=copy_link) |
 | ------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
 
 <!--
