@@ -10,10 +10,10 @@
 서비스의 품질뿐만 아니라 개발자가 효율적으로 개발하기 위한 환경을 함께 고민하는 개발자입니다.**
 
 - 한 해에 약 4000명이 참가하는 기업 전문가 연계 ICT공모전에서 **금상·동상** 수상, **프로그램 저작권 등록(C-2024-047133)**
-- 리렌더링 방지를 위한 React.memo 적용해 **렌더링 속도 1.5s(3.0s → 1.5s)** 감소
-- 코드 문서화 및 코드 리뷰로 **인력·시간 자원 50% 효율화, 오류 발생 빈도 15% 감소**
-- AWS EC2에서 NginX, PM2로 **무중단 서버 배포 및 운영** 경험
-- koBERT 활용한 텍스트 알고리즘 API **응답시간 40%** 감소
+- React.memo 리렌더링 방지 적용, **렌더링 속도 1.5s(3.0s → 1.5s)** 감소
+- 함수 단위 코드 문서화 및 주석 템플릿 작성으로 **인력·시간 50% 효율화, 오류 발생 빈도 15% 감소**
+- AWS EC2에서 NginX, PM2로 **무중단 서버 배포 및 운영** 
+- koBERT 활용한 텍스트 알고리즘 API **응답시간 20%(15s → 12s)** 감소, 정확도 80% 달성
 
 **💡'개발자 otcroz'에 대해 궁금하시다면?**
 | 📜[이력서 보러가기](https://drive.google.com/file/d/1UAt2wNOVxQokKPEQEohlREyThUpbhSTp/view?usp=sharing) | ✨[포트폴리오 보러가기](https://drive.google.com/file/d/1BJHDwhc65O4eBmLXankQEvxBMFq89tiX/view?usp=sharing)    | 🌠[Dev.log("otcroz")!](https://otcrotcr.notion.site/otcroz-dev-log-c0969737ccc4486fb89a734ba2be378f?source=copy_link) |
@@ -34,9 +34,10 @@
 
 _Experience_
 - (2025.9 ~) 슈어소프트테크 모빌리티솔루션실 인턴(Fullstack Engineer)
-  - LLM(Qwen QWQ) Fine-tuning(SFT, DPO) 및 Train datasets 12000개 자체 제작, LLM Accuracy 40% 증가
-  - On-premise 웹페이지 개발(React, Flask)
-
+  - Qwen QWQ 32B SFT 및 DPO Fine-Tuning 수행 (On-premise AI 서비스 개발 목적) 
+  - Qwen QWQ Fine-Tuning을 위한 데이터셋 약 20,000개 생성(SFT 80%, DPO 20%)
+  - 오픈 AI 모델 사용 및 사이버 보안 검증 자동화를 위한 Fullstack 개발(ReactJS, Flask, Sqlite)
+  
 _Award_
 - 2024년 ICT멘토링 이브와 공모전 금상(과학기술정보통신부장관상)🎖️: NLP 기반 소설 IP 확장 솔루션
   - ©️한국저작권위원회 프로그램 등재: Plotter 웹서비스
