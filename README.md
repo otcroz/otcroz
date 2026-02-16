@@ -35,8 +35,8 @@
 
 _Experience_
 - (2026.1 ~) 슈어소프트테크 모빌리티솔루션실 전임연구원
-  - 사이버보안 검증 프로젝트 수행
-  - 사이버보안 검증 도구 On-premise AI 서비스 유지보수
+  - ISO/SAE 21434, ISO 26262 표준에 따른 차종 사이버보안 검증 프로젝트 수행
+  - 사이버보안 검증 도구 On-premise AI 서비스 개발 및 유지보수
 - (2025.9 ~ 2025.12) 슈어소프트테크 모빌리티솔루션실 인턴(Fullstack Engineer)
   - Qwen QWQ 32B SFT 및 DPO Fine-Tuning 수행 (On-premise AI 서비스 개발 목적) 
   - Qwen QWQ Fine-Tuning을 위한 데이터셋 약 20,000개 생성(SFT 80%, DPO 20%)
