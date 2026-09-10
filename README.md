@@ -87,7 +87,6 @@ _Experience_
 `TRACE32` `Mobilgene` `Power Supply`
 
 <br />
-<br />
 
 #### ■슈어소프트테크 | 인턴 · Full-stack Engineer (2025.09 ~ 2025.12)
 
@@ -105,6 +104,7 @@ _Experience_
 - LoRA / Flash Attention 적용을 통한 모델 경량화 및 GPU 메모리 최적화
 
 `ReactJS 18` `Flask` `Python` `Qwen-QWQ 32B` `LoRA` `LLM`
+<br />
 <br />
 
 _Award_
